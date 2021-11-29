@@ -1,37 +1,9 @@
+<!DOCTYPE html>
 
-  <!-- Style-->
-  
-  <!DOCTYPE html>
-  <html>
-  <title>HaileyStephany</title>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <style>
-  h1,h2,h3,h4,h5,h6 {font-family: "Times New Roman"}
-  body {font-family: "Open Sans"}
-  </style>
-  <body class="w3-light-grey">
+<!-- Style-->
 
-
-<!-- Navbar-->
-
-    <nav>
-    <div class="w3-top">
-      <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
-        <a href="Home.html" class="w3-bar-item w3-button">GW Women's Club Lacrosse 
-        </nav>
-        </a>
-        </div>
-      </div>
-    </div>
-
-
-    <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
+<title>HaileyStephany</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -43,117 +15,98 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 <body>
-  
-</div>  </div>
-
-<!-- Title-->
-
-  
-  </div>
-</div>
-    </div>
-	    <div id="main_content" class="panel-panel panel-col">
-      <div class="inside"><div class="panel-pane pane-node-content">
-  
-        <h1 class="pane-title">
-      Roster    </h1>
-    
-
 
 <!-- Navbar-->
+<nav>
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+    <a href="#home" class="w3-bar-item w3-button">GW Women's Club Lacrosse </a>
+    <!-- Right-sided navbar links -- will hide on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="#about" class="w3-bar-item w3-button">About</a>
+      <a href="#menu" class="w3-bar-item w3-button">Team Captains</a>
+        <a href="Roster.html"> <button type="button" class=" w3-button w3-dark-grey">ROSTER </button> </a>
+      <a href="#contact" class="w3-bar-item w3-button">Interest Form</a>
+    </div>
+  </div>
+</div>
+</nav>
 
-  <div class="pane-content">
-    
-<div class="node node-general-content clearfix" about="/womens-lacrosse-roster" typeof="sioc:Item foaf:Document" id="node-108">
-    <center>  <h1><u>Roster</u> </h1><br><center>
-    </div>  </div>
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
+  <img class="w3-image" src="file:///Users/haileystephany/Downloads/DSC00457.jpg" alt="W Women's Club Lacrosse" width="2000" height="1000">
+  <div class="w3-display-bottomleft w3-padding-large w3-opacity">
+  </div>
+</header>
 
+<!-- Page content -->
+<div class="w3-content" style="max-width:1100px">
 
+  <!-- About Section -->
+  <div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="file:///Users/haileystephany/Downloads/DSC00512.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
+    </div>
 
- <center> <h4>Hailey Stephany – Senior</h4></center>
- <center> <p class="w3-text-grey">Milwaukee, WI / University School of Milwaukee</p><br> <center></center>
-
-    <center><h4>Abbie McGrann – Junior</h4> <center>
-        <center> <p class="w3-text-grey">Orono, MN / Orono HS</p><br> <center>
-
-            <center> <h4>Ella Schactman – Junior</h4> <center>
-                <center> <p class="w3-text-grey">St. Louis, MO / John Burroughs School</p><br> <center>
-
-                    <center> <h4>Alexa Mehelman – Sophomore</h4> <center>
-                        <center> <p class="w3-text-grey">Westwood, MA / Milton Academy</p><br> <center>
-    
-                            <center> <h4>Shelby Alexander – Junior</h4> <center>
-                                <center> <p class="w3-text-grey">Middletown, RI / Middletown HS</p><br> <center>
- 
-                                    <center> <h4>Lily Amorosino – Freshman</h4> <center>
-                                        <center> <p class="w3-text-grey">Norwell, MA / Norwell HS</p><br> <center>
- 
-                                            <center><h4>Erin Bernheim – Sophomore</h4> <center>
-                                                <center> <p class="w3-text-grey">Winter Garden, FL / Windermere Preparatory School</p><br> <center>
-   
-                                                    <center> <h4>Sophie Boisvert – Junior</h4> <center>
-                                                        <center> <p class="w3-text-grey">West Hartford, CT / Conard HS</p><br> <center>
- 
-                                                            <center> <h4>Meg Bracy – Sophomore</h4> <center>
-                                                                <center>  <p class="w3-text-grey">Webster, NY / Webster Thomas HS</p><br> <center>
-    
-                                                                    <center> <h4>Ryah Carpenter – Sophomore</h4> <center>
-        <center> <p class="w3-text-grey">Bethlehem, PA / Liberty HS</p><br> <center>
- 
-        <center> <h4>Michaela Charno – Freshman</h4> <center>
-        <center> <p class="w3-text-grey">Hockessin, DE / Delaware Military Academy</p><br>    <center>
- 
-        <center> <h4>Maddie Cummings – Freshman</h4> <center>
-        <center> <p class="w3-text-grey">Hockessin, DE / Delaware Military Academy</p><br>    <center>
- 
-        <center> <h4>Jolie Doherty – Sophomore</h4> <center>
-        <center> <p class="w3-text-grey">Boston, MA / Boston Latin School</p><br>    <center>
- 
-        <center> <h4>Michaela Charno – Freshman</h4> <center>
-        <center> <p class="w3-text-grey">Hockessin, DE / Delaware Military Academy</p><br>    <center>
-   
-        <center> <h4>Abbie Francis – Sophomore</h4> <center>
-        <center> <p class="w3-text-grey">Santa Fe, NM / Santa Fe Prep</p><br>    <center>
- 
-        <center> <h4>Sarah Geary – Sophomore</h4> <center>
-        <center> <p class="w3-text-grey">Amherst, NH / Sourhegan HS</p><br>    <center>
-    
-        <center><h4>Ashley Helrich – Sophomore</h4> <center>
-        <center><p class="w3-text-grey">Staten Island, NY / Staten Island Academy</p><br>  <center>  
- 
-        <center> <h4>Sabrina Izquierdo – Junior</h4> <center>
-        <center> <p class="w3-text-grey">Miami, FL / Gulliver Prep</p><br>    <center>
- 
-        <center><h4>Katie Lukas – Graduate Student</h4> <center>
-        <center><p class="w3-text-grey">Scotia, NY / The Albany Academies</p><br>    <center>
- 
-        <center><h4>Meghan Malone – Freshman</h4> <center>
-        <center> <p class="w3-text-grey">Wilmington, DE / Wilmington Friends School</p><br>    <center>
- 
-        <center><h4>Erin Marsland – Senior</h4> <center>
-        <center> <p class="w3-text-grey">Charleston, SC / Ashley Hall</p><br>    <center>
- 
-        <center> <h4>Catey McCarron – Sophomore</h4> <center>
-        <center> <p class="w3-text-grey">Wellesley, MA&nbsp; / Dana Hall School</p><br>    <center>
- 
-        <center> <h4>Emily Middleton – Sophomore</h4> <center>
-        <center> <p class="w3-text-grey">Chatham, NJ / Chatham HS</p><br>    <center>
- 
-        <center> <h4>Sophia Perry – Junior</h4> <center>
-        <center> <p class="w3-text-grey">Philadelphia, PA / Springfield Township HS</p><br>    <center>
- 
-        <center> <h4>Rea Tonelli – Freshman</h4> <center>
-        <center> <p class="w3-text-grey">Princeton Junction, NJ / Peddie School</p><br>   <center> 
- 
-        <center> <h4>Sarah Waldon – Junior</h4> <center>
-        <center><p class="w3-text-grey">New Hope, PA / Solebury School</p><br>    <center>
- 
-        <center> <h4>Madeleine Will – Freshman</h4> <center>
-        <center><p class="w3-text-grey">Louisville, KY / Assumption HS</p><br>    <center>
- 
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">About Our Club</h1><br>
+      <p class="w3-large">The George Washington Women's Club Lacrosse team is a student organization that allows participants to continue playing lacrosse at the collegiate level. In addition to field practices during the week, we also have workouts, team dinners, fundraisers, social events, and of course, games and tournaments in the DMV. We play during both the Fall and Spring seasons, and hold tryouts at the beginning of both.</p>
+    </div>
+  </div>
   
-          <Footer>
-            <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
-            </a><a href="https://www.instagram.com/gwwclax/?hl=en" class="w3-bar-item w3-button">Instagram</a>
-            <a href="mailto:gwwclax@gmail.com" class="w3-bar-item w3-button">Contact Us</a> 
-            </Footer>
+  <hr>
+  
+  <!-- Captain Section -->
+  <div class="w3-row w3-padding-34" id="menu">
+    <div class="w3-col l6 w3-padding-small">
+      <h1 class="w3-center">Team Captains</h1><br>
+      <h4 class= w3-center>  <a href="Hailey.html"> Hailey Stephany</a> – Senior </h4>
+   <p class="w3-text-grey w3-center">Milwaukee, WI / University School of Milwaukee</p><br>
+   <h4 class= w3-center>  <a href="Abbie.html"> Abbie McGrann</a> – Junior </h4> 
+     <p class="w3-text-grey w3-center">Orono, MN / Orono HS</p><br>
+     <h4 class=w3-center>  <a href="Ella.html"> Ella Schactman</a> – Junior </h4>
+        <p class="w3-text-grey w3-center">St. Louis, MO / John Burroughs School</p><br>
+        <h4 class= w3-center>  <a href="Alexa.html"> Alexa Mehelman</a> – Sophomore </h4>
+           <p class="w3-text-grey w3-center">Westwood, MA / Milton Academy</p><br>
+    
+
+
+    </div>
+    
+    <div class="w3-col l6 w3-padding-large">
+      <img src="file:///Users/haileystephany/Downloads/DSC00517.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+    </div>
+  </div>
+
+  <hr>
+
+  <!-- Contact Section -->
+  <div class="w3-container w3-padding-64" id="contact">
+    <h1>Interest Form</h1><br>
+    <form action="https://formspree.io/f/mrgjzppe"
+    method="POST">
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
+      <p><input class="w3-input w3-padding-16" type="Email" placeholder="Email" required name="People"></p>
+      <p><input class="w3-input w3-padding-16" type="date" placeholder="Date" required name="date" ></p>
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Message" required name="Message"></p>
+      <button class="w3-button w3-dark-grey w3-section" type="submit">Submit</button>
+    </form>
+  </div>
+
+
+</div>
+
+
+</body>
+</html>
+
+
+</div>
+
+<!-- Footer -->
+
+<Footer>
+<div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+</a><a href="https://www.instagram.com/gwwclax/?hl=en" class="w3-bar-item w3-button">Instagram</a>
+<a href="mailto:gwwclax@gmail.com" class="w3-bar-item w3-button">Contact Us</a> 
+</Footer>
